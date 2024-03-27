@@ -339,5 +339,12 @@
     "infoLink": "https://mui.com",
     "pinned": false,
     "width": 130
+  },
+  {
+    "caption": "BDSaaS",
+    "image": "/img/users/bdsaas.svg",
+    "infoLink": "https://bdsaas.com",
+    "pinned": false,
+    "width": 130
   }
 ]
